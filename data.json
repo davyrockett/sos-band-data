@@ -872,7 +872,8 @@
         "s-under-the-boardwalk",
         "s-use-me",
         "s-valerie",
-        "s-drift-away"
+        "s-drift-away",
+        "s-fayetteville"
       ],
       "extras": [
         {
@@ -965,7 +966,7 @@
       ],
       "mixerNotes": "Amps not in the PA: Cliff (bass amp), Joel (E. guitar amp), David (E. guitar amp).",
       "order": 0,
-      "updatedAt": "2026-10-13T19:41:53.425Z"
+      "updatedAt": "2026-10-13T19:42:08.292Z"
     },
     "show-ionis-2026": {
       "type": "show",
