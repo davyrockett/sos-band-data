@@ -856,7 +856,8 @@
         "s-folsom-prison-blues",
         "s-drift-away",
         "s-aint-no-sunshine",
-        "s-birds-of-a-feather"
+        "s-birds-of-a-feather",
+        "s-just-my-imagination-running-away-with-me"
       ],
       "extras": [
         {
@@ -949,7 +950,7 @@
       ],
       "mixerNotes": "Amps not in the PA: Cliff (bass amp), Joel (E. guitar amp), David (E. guitar amp).",
       "order": 0,
-      "updatedAt": "2026-10-13T19:21:30.331Z"
+      "updatedAt": "2026-10-13T19:21:40.663Z"
     },
     "show-ionis-2026": {
       "type": "show",
