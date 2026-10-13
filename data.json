@@ -861,7 +861,9 @@
         "s-lets-stay-together",
         "s-margaritaville",
         "s-my-girl",
-        "s-stand-by-me"
+        "s-stand-by-me",
+        "s-surfin-safari",
+        "s-surfin-usa"
       ],
       "extras": [
         {
@@ -954,7 +956,7 @@
       ],
       "mixerNotes": "Amps not in the PA: Cliff (bass amp), Joel (E. guitar amp), David (E. guitar amp).",
       "order": 0,
-      "updatedAt": "2026-10-13T19:21:53.676Z"
+      "updatedAt": "2026-10-13T19:22:04.448Z"
     },
     "show-ionis-2026": {
       "type": "show",
