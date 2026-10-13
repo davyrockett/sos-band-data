@@ -597,48 +597,48 @@
       "lineup": [
         {
           "member": "m-cliff",
-          "x": 37,
-          "y": 14
+          "x": 36,
+          "y": 3.5
         },
         {
           "member": "m-andrew",
           "x": 50,
-          "y": 14
+          "y": 3.5
         },
         {
           "member": "m-david",
-          "x": 63,
-          "y": 14
+          "x": 64,
+          "y": 3.5
         },
         {
           "member": "m-geno",
-          "x": 31,
-          "y": 47
+          "x": 30,
+          "y": 33
         },
         {
           "member": "m-corey",
-          "x": 69,
-          "y": 47
+          "x": 70,
+          "y": 33
         },
         {
           "member": "m-joel",
-          "x": 32,
-          "y": 82
+          "x": 31.5,
+          "y": 63
         },
         {
           "member": "m-tim",
-          "x": 44,
-          "y": 82
+          "x": 43.8,
+          "y": 63
         },
         {
           "member": "m-jennifer",
-          "x": 56,
-          "y": 82
+          "x": 56.2,
+          "y": 63
         },
         {
           "member": "m-cam",
-          "x": 68,
-          "y": 82
+          "x": 68.5,
+          "y": 63
         }
       ],
       "setlist": [
