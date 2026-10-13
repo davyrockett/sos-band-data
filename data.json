@@ -1151,9 +1151,17 @@
         {
           "item": "Music Stand",
           "qty": 1
+        },
+        {
+          "item": "Mic",
+          "qty": 1
+        },
+        {
+          "item": "Mic Stand",
+          "qty": 1
         }
       ],
-      "updatedAt": "2026-10-13T19:23:07.744Z"
+      "updatedAt": "2026-10-13T19:50:32.192Z"
     },
     "m-mv72jwvx59bw": {
       "order": 10,
