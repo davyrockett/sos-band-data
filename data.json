@@ -797,7 +797,7 @@
       "lineup": [
         {
           "member": "m-cliff",
-          "x": 36,
+          "x": 24.4,
           "y": 3.5
         },
         {
@@ -949,7 +949,7 @@
       ],
       "mixerNotes": "Amps not in the PA: Cliff (bass amp), Joel (E. guitar amp), David (E. guitar amp).",
       "order": 0,
-      "updatedAt": "2026-10-13T18:57:19.000Z"
+      "updatedAt": "2026-10-13T18:58:20.490Z"
     },
     "show-ionis-2026": {
       "type": "show",
