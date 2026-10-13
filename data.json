@@ -336,11 +336,11 @@
       "type": "song",
       "title": "Don't You (Forget About Me)",
       "artist": "Simple Minds",
-      "lead": "",
-      "key": "",
+      "lead": "m-joel",
+      "key": "E",
       "notes": "",
       "chart": "charts/dont-you-forget-about-me.pdf",
-      "updatedAt": "2026-10-13T18:57:19.000Z",
+      "updatedAt": "2026-10-13T19:20:22.623Z",
       "source": "Don't You Forget About Me.pdf"
     },
     "s-drift-away": {
