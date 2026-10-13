@@ -347,11 +347,11 @@
       "type": "song",
       "title": "Drift Away",
       "artist": "Dobie Gray",
-      "lead": "",
-      "key": "",
+      "lead": "m-cam",
+      "key": "A",
       "notes": "",
       "chart": "charts/drift-away.pdf",
-      "updatedAt": "2026-10-13T18:57:19.000Z",
+      "updatedAt": "2026-10-13T19:21:10.143Z",
       "source": "Drift Away.pdf"
     },
     "s-fayetteville": {
