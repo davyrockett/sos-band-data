@@ -1175,15 +1175,39 @@
       "order": 10,
       "type": "member",
       "name": "Chuck",
-      "instrument": "Ac. Guitar",
+      "instrument": "Ac. Guitar / Vox",
       "kind": "acoustic",
       "gear": [
         {
           "item": "Music Stand",
           "qty": 1
+        },
+        {
+          "item": "DI Box",
+          "qty": 1
+        },
+        {
+          "item": "1/4\" Cable",
+          "qty": 1
+        },
+        {
+          "item": "XLR Cable",
+          "qty": 2
+        },
+        {
+          "item": "Mic",
+          "qty": 1
+        },
+        {
+          "item": "Mic Stand",
+          "qty": 1
+        },
+        {
+          "item": "Guitar Stand",
+          "qty": 1
         }
       ],
-      "updatedAt": "2026-10-13T19:23:34.077Z"
+      "updatedAt": "2026-10-13T19:52:53.426Z"
     },
     "m-mv72khb316xq": {
       "order": 11,
