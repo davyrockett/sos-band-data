@@ -600,11 +600,11 @@
       "type": "song",
       "title": "Valerie",
       "artist": "Amy Winehouse",
-      "lead": "",
-      "key": "",
+      "lead": "m-jennifer",
+      "key": "D",
       "notes": "",
       "chart": "charts/valerie.pdf",
-      "updatedAt": "2026-10-13T18:57:19.000Z",
+      "updatedAt": "2026-10-13T19:27:26.558Z",
       "source": "valerie official.pdf"
     },
     "s-whats-up": {
