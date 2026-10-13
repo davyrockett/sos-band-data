@@ -380,11 +380,11 @@
       "type": "song",
       "title": "Get It On",
       "artist": "T. Rex",
-      "lead": "",
+      "lead": "m-cam",
       "key": "",
       "notes": "",
       "chart": "charts/get-it-on.pdf",
-      "updatedAt": "2026-10-13T18:57:19.000Z",
+      "updatedAt": "2026-10-13T19:03:25.828Z",
       "source": "Get It On.pdf"
     },
     "s-i-will-survive": {
@@ -423,12 +423,12 @@
     "s-new-york-city": {
       "type": "song",
       "title": "New York City",
-      "artist": "",
-      "lead": "",
-      "key": "",
+      "artist": "Cameron Cannell",
+      "lead": "m-cam",
+      "key": "G",
       "notes": "",
       "chart": "charts/new-york-city.pdf",
-      "updatedAt": "2026-10-13T18:57:19.000Z",
+      "updatedAt": "2026-10-13T19:05:16.744Z",
       "source": "New York City.pdf"
     },
     "s-old-shoes-and-picture-postcards": {
@@ -501,11 +501,11 @@
       "type": "song",
       "title": "The Middle",
       "artist": "Jimmy Eat World",
-      "lead": "",
-      "key": "",
+      "lead": "m-joel",
+      "key": "D",
       "notes": "",
       "chart": "charts/the-middle.pdf",
-      "updatedAt": "2026-10-13T18:57:19.000Z",
+      "updatedAt": "2026-10-13T19:05:42.861Z",
       "source": "The Middle.pdf"
     },
     "s-under-the-boardwalk": {
@@ -797,7 +797,7 @@
       "lineup": [
         {
           "member": "m-cliff",
-          "x": 24.4,
+          "x": 36,
           "y": 3.5
         },
         {
@@ -847,10 +847,8 @@
         "s-new-york-city",
         "s-i-will-survive",
         "s-burning-daylight",
-        "s-what-does-it-take-to-win-your-love",
         "s-the-boys-of-summer",
         "s-the-funk-surprise",
-        "s-old-shoes-and-picture-postcards",
         "s-with-a-little-help-from-my-friends",
         "s-fayetteville",
         "s-sesame-street-theme",
@@ -949,7 +947,7 @@
       ],
       "mixerNotes": "Amps not in the PA: Cliff (bass amp), Joel (E. guitar amp), David (E. guitar amp).",
       "order": 0,
-      "updatedAt": "2026-10-13T18:58:20.490Z"
+      "updatedAt": "2026-10-13T19:03:42.096Z"
     },
     "show-ionis-2026": {
       "type": "show",
