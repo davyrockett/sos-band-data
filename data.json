@@ -391,11 +391,11 @@
       "type": "song",
       "title": "I Will Survive",
       "artist": "Gloria Gaynor",
-      "lead": "",
-      "key": "",
+      "lead": "m-jennifer",
+      "key": "em",
       "notes": "",
       "chart": "charts/i-will-survive.pdf",
-      "updatedAt": "2026-10-13T18:57:19.000Z",
+      "updatedAt": "2026-10-13T19:18:23.857Z",
       "source": "I Will Survive.pdf"
     },
     "s-lets-stay-together": {
