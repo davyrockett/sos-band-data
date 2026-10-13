@@ -854,7 +854,8 @@
         "s-sesame-street-theme",
         "s-dont-you-forget-about-me",
         "s-folsom-prison-blues",
-        "s-drift-away"
+        "s-drift-away",
+        "s-aint-no-sunshine"
       ],
       "extras": [
         {
@@ -947,7 +948,7 @@
       ],
       "mixerNotes": "Amps not in the PA: Cliff (bass amp), Joel (E. guitar amp), David (E. guitar amp).",
       "order": 0,
-      "updatedAt": "2026-10-13T19:03:42.096Z"
+      "updatedAt": "2026-10-13T19:21:19.245Z"
     },
     "show-ionis-2026": {
       "type": "show",
