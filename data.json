@@ -876,7 +876,8 @@
         "s-drift-away",
         "note-mv73f2904qp7",
         "note-mv73fnk2kr3y",
-        "note-mv73fwxh5uuc"
+        "note-mv73fwxh5uuc",
+        "note-mv73gfvxgsi8"
       ],
       "extras": [
         {
@@ -969,11 +970,12 @@
       ],
       "mixerNotes": "Amps not in the PA: Cliff (bass amp), Joel (E. guitar amp), David (E. guitar amp).",
       "order": 0,
-      "updatedAt": "2026-10-13T19:48:37.710Z",
+      "updatedAt": "2026-10-13T19:48:51.693Z",
       "setNotes": {
         "note-mv73f2904qp7": "Indiana Guest Song",
         "note-mv73fnk2kr3y": "Will Speaks Here",
-        "note-mv73fwxh5uuc": "Ashley Norton Song"
+        "note-mv73fwxh5uuc": "Ashley Norton Song",
+        "note-mv73gfvxgsi8": ""
       }
     },
     "show-ionis-2026": {
