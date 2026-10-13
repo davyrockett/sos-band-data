@@ -1,0 +1,762 @@
+{
+  "app": "sos-band",
+  "format": 1,
+  "items": {
+    "m-cliff": {
+      "type": "member",
+      "name": "Cliff",
+      "instrument": "Bass",
+      "kind": "bass",
+      "gear": [
+        {
+          "item": "Music Stand",
+          "qty": 1
+        },
+        {
+          "item": "Guitar Stand",
+          "qty": 1
+        },
+        {
+          "item": "Bass Amp",
+          "qty": 1
+        },
+        {
+          "item": "1/4\" Cable",
+          "qty": 1
+        }
+      ],
+      "order": 0,
+      "updatedAt": "2026-10-13T12:00:00.000Z"
+    },
+    "m-andrew": {
+      "type": "member",
+      "name": "Andrew",
+      "instrument": "Drums",
+      "kind": "drums",
+      "gear": [
+        {
+          "item": "Drum Kit",
+          "qty": 1
+        },
+        {
+          "item": "Music Stand",
+          "qty": 1
+        }
+      ],
+      "order": 1,
+      "updatedAt": "2026-10-13T12:00:00.000Z"
+    },
+    "m-david": {
+      "type": "member",
+      "name": "David",
+      "instrument": "E. Guitar / Vox",
+      "kind": "electric",
+      "gear": [
+        {
+          "item": "Music Stand",
+          "qty": 1
+        },
+        {
+          "item": "Mic Stand",
+          "qty": 1
+        },
+        {
+          "item": "Mic",
+          "qty": 1
+        },
+        {
+          "item": "Guitar Stand",
+          "qty": 1
+        },
+        {
+          "item": "E. Guitar Amp",
+          "qty": 1
+        },
+        {
+          "item": "Pedalboard",
+          "qty": 1
+        },
+        {
+          "item": "1/4\" Cable",
+          "qty": 2
+        },
+        {
+          "item": "XLR Cable",
+          "qty": 1
+        }
+      ],
+      "order": 2,
+      "updatedAt": "2026-10-13T12:00:00.000Z"
+    },
+    "m-geno": {
+      "type": "member",
+      "name": "Geno",
+      "instrument": "Ac. Guitar",
+      "kind": "acoustic",
+      "gear": [
+        {
+          "item": "Music Stand",
+          "qty": 1
+        },
+        {
+          "item": "Guitar Stand",
+          "qty": 1
+        },
+        {
+          "item": "DI Box",
+          "qty": 1
+        },
+        {
+          "item": "1/4\" Cable",
+          "qty": 1
+        },
+        {
+          "item": "XLR Cable",
+          "qty": 1
+        }
+      ],
+      "order": 3,
+      "updatedAt": "2026-10-13T12:00:00.000Z"
+    },
+    "m-corey": {
+      "type": "member",
+      "name": "Corey",
+      "instrument": "Ac. Guitar / Vox",
+      "kind": "acoustic",
+      "gear": [
+        {
+          "item": "Music Stand",
+          "qty": 1
+        },
+        {
+          "item": "Mic Stand",
+          "qty": 1
+        },
+        {
+          "item": "Mic",
+          "qty": 1
+        },
+        {
+          "item": "Guitar Stand",
+          "qty": 1
+        },
+        {
+          "item": "DI Box",
+          "qty": 1
+        },
+        {
+          "item": "1/4\" Cable",
+          "qty": 1
+        },
+        {
+          "item": "XLR Cable",
+          "qty": 2
+        }
+      ],
+      "order": 4,
+      "updatedAt": "2026-10-13T12:00:00.000Z"
+    },
+    "m-joel": {
+      "type": "member",
+      "name": "Joel",
+      "instrument": "E. Guitar / Vox",
+      "kind": "electric",
+      "gear": [
+        {
+          "item": "Music Stand",
+          "qty": 1
+        },
+        {
+          "item": "Mic Stand",
+          "qty": 1
+        },
+        {
+          "item": "Mic",
+          "qty": 1
+        },
+        {
+          "item": "Guitar Stand",
+          "qty": 2
+        },
+        {
+          "item": "E. Guitar Amp",
+          "qty": 1
+        },
+        {
+          "item": "1/4\" Cable",
+          "qty": 1
+        },
+        {
+          "item": "XLR Cable",
+          "qty": 1
+        }
+      ],
+      "order": 5,
+      "updatedAt": "2026-10-13T12:00:00.000Z"
+    },
+    "m-tim": {
+      "type": "member",
+      "name": "Tim",
+      "instrument": "Sax / Vox",
+      "kind": "horn",
+      "gear": [
+        {
+          "item": "Music Stand",
+          "qty": 1
+        },
+        {
+          "item": "Mic Stand",
+          "qty": 1
+        },
+        {
+          "item": "Mic",
+          "qty": 1
+        },
+        {
+          "item": "XLR Cable",
+          "qty": 1
+        }
+      ],
+      "order": 6,
+      "updatedAt": "2026-10-13T12:00:00.000Z"
+    },
+    "m-jennifer": {
+      "type": "member",
+      "name": "Jennifer",
+      "instrument": "Vox / Perc",
+      "kind": "vocal",
+      "gear": [
+        {
+          "item": "Music Stand",
+          "qty": 1
+        },
+        {
+          "item": "Mic Stand",
+          "qty": 1
+        },
+        {
+          "item": "Mic",
+          "qty": 1
+        },
+        {
+          "item": "XLR Cable",
+          "qty": 1
+        },
+        {
+          "item": "Percussion (TBD)",
+          "qty": 1
+        }
+      ],
+      "order": 7,
+      "updatedAt": "2026-10-13T12:00:00.000Z"
+    },
+    "m-cam": {
+      "type": "member",
+      "name": "Cam",
+      "instrument": "Ac. Guitar / Vox",
+      "kind": "acoustic",
+      "gear": [
+        {
+          "item": "Music Stand",
+          "qty": 1
+        },
+        {
+          "item": "Mic Stand",
+          "qty": 1
+        },
+        {
+          "item": "Mic",
+          "qty": 1
+        },
+        {
+          "item": "Guitar Stand",
+          "qty": 1
+        },
+        {
+          "item": "DI Box",
+          "qty": 1
+        },
+        {
+          "item": "1/4\" Cable",
+          "qty": 1
+        },
+        {
+          "item": "XLR Cable",
+          "qty": 2
+        }
+      ],
+      "order": 8,
+      "updatedAt": "2026-10-13T12:00:00.000Z"
+    },
+    "s-bad-moon-rising": {
+      "type": "song",
+      "title": "Bad Moon Rising",
+      "artist": "Creedence Clearwater Revival",
+      "lead": "",
+      "key": "",
+      "notes": "",
+      "chart": "charts/bad-moon-rising.pdf",
+      "updatedAt": "2026-10-13T12:00:00.000Z"
+    },
+    "s-the-boys-of-summer": {
+      "type": "song",
+      "title": "The Boys of Summer",
+      "artist": "Don Henley",
+      "lead": "",
+      "key": "",
+      "notes": "",
+      "chart": "charts/the-boys-of-summer.pdf",
+      "updatedAt": "2026-10-13T12:00:00.000Z"
+    },
+    "s-burning-daylight": {
+      "type": "song",
+      "title": "Burning Daylight",
+      "artist": "Joel Hamlet",
+      "lead": "m-joel",
+      "key": "",
+      "notes": "",
+      "chart": "charts/burning-daylight.pdf",
+      "updatedAt": "2026-10-13T12:00:00.000Z"
+    },
+    "s-come-and-get-your-love": {
+      "type": "song",
+      "title": "Come and Get Your Love",
+      "artist": "Redbone",
+      "lead": "",
+      "key": "",
+      "notes": "",
+      "chart": "charts/come-and-get-your-love.pdf",
+      "updatedAt": "2026-10-13T12:00:00.000Z"
+    },
+    "s-dont-you-forget-about-me": {
+      "type": "song",
+      "title": "Don't You (Forget About Me)",
+      "artist": "Simple Minds",
+      "lead": "",
+      "key": "",
+      "notes": "",
+      "chart": "charts/dont-you-forget-about-me.pdf",
+      "updatedAt": "2026-10-13T12:00:00.000Z"
+    },
+    "s-drift-away": {
+      "type": "song",
+      "title": "Drift Away",
+      "artist": "Dobie Gray",
+      "lead": "",
+      "key": "",
+      "notes": "",
+      "chart": "charts/drift-away.pdf",
+      "updatedAt": "2026-10-13T12:00:00.000Z"
+    },
+    "s-fayetteville": {
+      "type": "song",
+      "title": "Fayetteville",
+      "artist": "Joel Hamlet",
+      "lead": "m-joel",
+      "key": "",
+      "notes": "",
+      "chart": "charts/fayetteville.pdf",
+      "updatedAt": "2026-10-13T12:00:00.000Z"
+    },
+    "s-folsom-prison-blues": {
+      "type": "song",
+      "title": "Folsom Prison Blues",
+      "artist": "Johnny Cash",
+      "lead": "",
+      "key": "",
+      "notes": "",
+      "chart": "charts/folsom-prison-blues.pdf",
+      "updatedAt": "2026-10-13T12:00:00.000Z"
+    },
+    "s-get-it-on": {
+      "type": "song",
+      "title": "Get It On",
+      "artist": "T. Rex",
+      "lead": "",
+      "key": "",
+      "notes": "",
+      "chart": "charts/get-it-on.pdf",
+      "updatedAt": "2026-10-13T12:00:00.000Z"
+    },
+    "s-i-will-survive": {
+      "type": "song",
+      "title": "I Will Survive",
+      "artist": "Gloria Gaynor",
+      "lead": "",
+      "key": "",
+      "notes": "",
+      "chart": "charts/i-will-survive.pdf",
+      "updatedAt": "2026-10-13T12:00:00.000Z"
+    },
+    "s-lets-stay-together": {
+      "type": "song",
+      "title": "Let's Stay Together",
+      "artist": "Al Green",
+      "lead": "",
+      "key": "",
+      "notes": "",
+      "chart": "charts/lets-stay-together.pdf",
+      "updatedAt": "2026-10-13T12:00:00.000Z"
+    },
+    "s-margaritaville": {
+      "type": "song",
+      "title": "Margaritaville",
+      "artist": "Jimmy Buffett",
+      "lead": "",
+      "key": "",
+      "notes": "",
+      "chart": "charts/margaritaville.pdf",
+      "updatedAt": "2026-10-13T12:00:00.000Z"
+    },
+    "s-new-york-city": {
+      "type": "song",
+      "title": "New York City",
+      "artist": "",
+      "lead": "",
+      "key": "",
+      "notes": "",
+      "chart": "charts/new-york-city.pdf",
+      "updatedAt": "2026-10-13T12:00:00.000Z"
+    },
+    "s-old-shoes-and-picture-postcards": {
+      "type": "song",
+      "title": "Old Shoes and Picture Postcards",
+      "artist": "Tom Waits",
+      "lead": "",
+      "key": "",
+      "notes": "",
+      "chart": "charts/old-shoes-and-picture-postcards.pdf",
+      "updatedAt": "2026-10-13T12:00:00.000Z"
+    },
+    "s-sesame-street-theme": {
+      "type": "song",
+      "title": "Sesame Street Theme",
+      "artist": "Joe Raposo",
+      "lead": "",
+      "key": "",
+      "notes": "",
+      "chart": "charts/sesame-street-theme.pdf",
+      "updatedAt": "2026-10-13T12:00:00.000Z"
+    },
+    "s-stand-by-me": {
+      "type": "song",
+      "title": "Stand By Me",
+      "artist": "Ben E. King",
+      "lead": "",
+      "key": "",
+      "notes": "",
+      "chart": "charts/stand-by-me.pdf",
+      "updatedAt": "2026-10-13T12:00:00.000Z"
+    },
+    "s-surfin-safari": {
+      "type": "song",
+      "title": "Surfin' Safari",
+      "artist": "The Beach Boys",
+      "lead": "",
+      "key": "",
+      "notes": "",
+      "chart": "charts/surfin-safari.pdf",
+      "updatedAt": "2026-10-13T12:00:00.000Z"
+    },
+    "s-surfin-usa": {
+      "type": "song",
+      "title": "Surfin' USA",
+      "artist": "The Beach Boys",
+      "lead": "",
+      "key": "",
+      "notes": "",
+      "chart": "charts/surfin-usa.pdf",
+      "updatedAt": "2026-10-13T12:00:00.000Z"
+    },
+    "s-the-funk-surprise": {
+      "type": "song",
+      "title": "The Funk Surprise",
+      "artist": "Cameron Cannell",
+      "lead": "m-cam",
+      "key": "",
+      "notes": "",
+      "chart": "charts/the-funk-surprise.pdf",
+      "updatedAt": "2026-10-13T12:00:00.000Z"
+    },
+    "s-the-middle": {
+      "type": "song",
+      "title": "The Middle",
+      "artist": "Jimmy Eat World",
+      "lead": "",
+      "key": "",
+      "notes": "",
+      "chart": "charts/the-middle.pdf",
+      "updatedAt": "2026-10-13T12:00:00.000Z"
+    },
+    "s-under-the-boardwalk": {
+      "type": "song",
+      "title": "Under the Boardwalk",
+      "artist": "The Drifters",
+      "lead": "",
+      "key": "",
+      "notes": "",
+      "chart": "charts/under-the-boardwalk.pdf",
+      "updatedAt": "2026-10-13T12:00:00.000Z"
+    },
+    "s-what-does-it-take-to-win-your-love": {
+      "type": "song",
+      "title": "What Does It Take (To Win Your Love)",
+      "artist": "Junior Walker & the All Stars",
+      "lead": "",
+      "key": "",
+      "notes": "",
+      "chart": "charts/what-does-it-take-to-win-your-love.pdf",
+      "updatedAt": "2026-10-13T12:00:00.000Z"
+    },
+    "s-with-a-little-help-from-my-friends": {
+      "type": "song",
+      "title": "With a Little Help from My Friends",
+      "artist": "The Beatles",
+      "lead": "",
+      "key": "",
+      "notes": "",
+      "chart": "charts/with-a-little-help-from-my-friends.pdf",
+      "updatedAt": "2026-10-13T12:00:00.000Z"
+    },
+    "s-aint-no-sunshine": {
+      "type": "song",
+      "title": "Ain't No Sunshine",
+      "artist": "Bill Withers",
+      "lead": "",
+      "key": "",
+      "notes": "",
+      "chart": "charts/aint-no-sunshine.pdf",
+      "updatedAt": "2026-10-13T12:00:00.000Z"
+    },
+    "s-birds-of-a-feather": {
+      "type": "song",
+      "title": "Birds of a Feather",
+      "artist": "Billie Eilish",
+      "lead": "",
+      "key": "",
+      "notes": "",
+      "chart": "charts/birds-of-a-feather.pdf",
+      "updatedAt": "2026-10-13T12:00:00.000Z"
+    },
+    "s-just-my-imagination-running-away-with-me": {
+      "type": "song",
+      "title": "Just My Imagination (Running Away with Me)",
+      "artist": "The Temptations",
+      "lead": "",
+      "key": "",
+      "notes": "",
+      "chart": "charts/just-my-imagination-running-away-with-me.pdf",
+      "updatedAt": "2026-10-13T12:00:00.000Z"
+    },
+    "s-my-girl": {
+      "type": "song",
+      "title": "My Girl",
+      "artist": "The Temptations",
+      "lead": "",
+      "key": "",
+      "notes": "",
+      "chart": "charts/my-girl.pdf",
+      "updatedAt": "2026-10-13T12:00:00.000Z"
+    },
+    "s-use-me": {
+      "type": "song",
+      "title": "Use Me",
+      "artist": "Bill Withers",
+      "lead": "",
+      "key": "",
+      "notes": "",
+      "chart": "charts/use-me.pdf",
+      "updatedAt": "2026-10-13T12:00:00.000Z"
+    },
+    "s-valerie": {
+      "type": "song",
+      "title": "Valerie",
+      "artist": "Amy Winehouse",
+      "lead": "",
+      "key": "",
+      "notes": "",
+      "chart": "charts/valerie.pdf",
+      "updatedAt": "2026-10-13T12:00:00.000Z"
+    },
+    "s-whats-up": {
+      "type": "song",
+      "title": "What's Up?",
+      "artist": "4 Non Blondes",
+      "lead": "",
+      "key": "",
+      "notes": "",
+      "chart": "charts/whats-up.pdf",
+      "updatedAt": "2026-10-13T12:00:00.000Z"
+    },
+    "show-midway-2026": {
+      "type": "show",
+      "name": "The Midway",
+      "date": "2026-05-18",
+      "venue": "",
+      "host": "Resounding Joy",
+      "lineup": [
+        {
+          "member": "m-cliff",
+          "x": 37,
+          "y": 14
+        },
+        {
+          "member": "m-andrew",
+          "x": 50,
+          "y": 14
+        },
+        {
+          "member": "m-david",
+          "x": 63,
+          "y": 14
+        },
+        {
+          "member": "m-geno",
+          "x": 31,
+          "y": 47
+        },
+        {
+          "member": "m-corey",
+          "x": 69,
+          "y": 47
+        },
+        {
+          "member": "m-joel",
+          "x": 32,
+          "y": 82
+        },
+        {
+          "member": "m-tim",
+          "x": 44,
+          "y": 82
+        },
+        {
+          "member": "m-jennifer",
+          "x": 56,
+          "y": 82
+        },
+        {
+          "member": "m-cam",
+          "x": 68,
+          "y": 82
+        }
+      ],
+      "setlist": [
+        "s-get-it-on",
+        "s-the-middle",
+        "s-new-york-city",
+        "s-i-will-survive",
+        "s-burning-daylight",
+        "s-what-does-it-take-to-win-your-love",
+        "s-the-boys-of-summer",
+        "s-the-funk-surprise",
+        "s-old-shoes-and-picture-postcards",
+        "s-with-a-little-help-from-my-friends",
+        "s-fayetteville",
+        "s-sesame-street-theme",
+        "s-dont-you-forget-about-me",
+        "s-folsom-prison-blues",
+        "s-drift-away"
+      ],
+      "extras": [
+        {
+          "item": "Mackie Mixer (8-ch)",
+          "how": "",
+          "qty": 2,
+          "section": "Band"
+        },
+        {
+          "item": "Extension Cords",
+          "how": "",
+          "qty": 2,
+          "section": "Band"
+        },
+        {
+          "item": "Surge Protectors",
+          "how": "",
+          "qty": 3,
+          "section": "Band"
+        },
+        {
+          "item": "EV PA Speakers",
+          "how": "",
+          "qty": 2,
+          "section": "PA"
+        },
+        {
+          "item": "PA Speaker Stands",
+          "how": "",
+          "qty": 2,
+          "section": "PA"
+        },
+        {
+          "item": "Power Cables (Mixers)",
+          "how": "1 per mixer",
+          "qty": 2,
+          "section": "PA"
+        },
+        {
+          "item": "Power Cables (Speakers)",
+          "how": "1 per speaker",
+          "qty": 2,
+          "section": "PA"
+        },
+        {
+          "item": "Long XLR (Mixer → Speakers)",
+          "how": "1 per speaker",
+          "qty": 2,
+          "section": "PA"
+        },
+        {
+          "item": "XLR (Mixer A → Mixer B)",
+          "how": "Submix",
+          "qty": 1,
+          "section": "PA"
+        }
+      ],
+      "gearNotes": "Andrew's drum kit: confirm separately.",
+      "mixers": [
+        {
+          "name": "Mixer A",
+          "role": "Acoustic submix",
+          "channels": [
+            "Geno Ac. Guit (DI)",
+            "Corey Ac. Guit (DI)",
+            "Cam Ac. Guit (DI)",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "out": "Main Out → Mixer B ch 7 (1 XLR)"
+        },
+        {
+          "name": "Mixer B",
+          "role": "Master, out to PA",
+          "channels": [
+            "Corey Vox",
+            "Cam Vox",
+            "Joel Vox",
+            "David Vox",
+            "Jennifer Vox",
+            "Tim Vox",
+            "Acoustic submix (from Mixer A)",
+            ""
+          ],
+          "out": "Main Out L/R → EV Speaker L + R (2 long XLR)"
+        }
+      ],
+      "mixerNotes": "Amps not in the PA: Cliff (bass amp), Joel (E. guitar amp), David (E. guitar amp).",
+      "order": 0,
+      "updatedAt": "2026-10-13T12:00:00.000Z"
+    },
+    "band": {
+      "type": "band",
+      "name": "Sounds of Service (SOS) Band",
+      "org": "Resounding Joy",
+      "currentShow": "show-midway-2026",
+      "updatedAt": "2026-10-13T12:00:00.000Z"
+    }
+  }
+}
