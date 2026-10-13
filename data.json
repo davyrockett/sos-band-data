@@ -844,6 +844,11 @@
           "member": "m-mv72khb316xq",
           "x": 82.4,
           "y": 3
+        },
+        {
+          "member": "m-mv744v0y5vsm",
+          "x": 50,
+          "y": 33
         }
       ],
       "setlist": [
@@ -970,7 +975,7 @@
       ],
       "mixerNotes": "Amps not in the PA: Cliff (bass amp), Joel (E. guitar amp), David (E. guitar amp).",
       "order": 0,
-      "updatedAt": "2026-10-13T20:07:05.956Z",
+      "updatedAt": "2026-10-13T20:07:51.066Z",
       "setNotes": {
         "note-mv73f2904qp7": "Indiana Guest Song",
         "note-mv73fnk2kr3y": "Will Speaks Here",
@@ -1308,6 +1313,36 @@
         }
       ],
       "updatedAt": "2026-10-13T20:07:00.560Z"
+    },
+    "m-mv744v0y5vsm": {
+      "order": 13,
+      "type": "member",
+      "name": "Doug",
+      "instrument": "Percussion",
+      "kind": "drums",
+      "gear": [
+        {
+          "item": "Music Stand",
+          "qty": 1
+        },
+        {
+          "item": "Percussion (TBD)",
+          "qty": 1
+        },
+        {
+          "item": "Mic",
+          "qty": 1
+        },
+        {
+          "item": "Mic Stand",
+          "qty": 1
+        },
+        {
+          "item": "XLR Cable",
+          "qty": 1
+        }
+      ],
+      "updatedAt": "2026-10-13T20:07:51.058Z"
     }
   }
 }
