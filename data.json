@@ -821,11 +821,6 @@
           "y": 63
         },
         {
-          "member": "m-tim",
-          "x": 43.8,
-          "y": 63
-        },
-        {
           "member": "m-jennifer",
           "x": 56.2,
           "y": 63
@@ -964,7 +959,7 @@
       ],
       "mixerNotes": "Amps not in the PA: Cliff (bass amp), Joel (E. guitar amp), David (E. guitar amp).",
       "order": 0,
-      "updatedAt": "2026-10-13T19:23:39.092Z"
+      "updatedAt": "2026-10-13T19:23:43.708Z"
     },
     "show-ionis-2026": {
       "type": "show",
