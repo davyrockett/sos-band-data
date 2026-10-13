@@ -862,6 +862,7 @@
         "s-aint-no-sunshine",
         "s-just-my-imagination-running-away-with-me",
         "s-the-funk-surprise",
+        "s-fayetteville",
         "s-lets-stay-together",
         "s-with-a-little-help-from-my-friends",
         "break-mv731y0vswr6",
@@ -872,8 +873,7 @@
         "s-under-the-boardwalk",
         "s-use-me",
         "s-valerie",
-        "s-drift-away",
-        "s-fayetteville"
+        "s-drift-away"
       ],
       "extras": [
         {
@@ -966,7 +966,7 @@
       ],
       "mixerNotes": "Amps not in the PA: Cliff (bass amp), Joel (E. guitar amp), David (E. guitar amp).",
       "order": 0,
-      "updatedAt": "2026-10-13T19:42:08.292Z"
+      "updatedAt": "2026-10-13T19:42:17.639Z"
     },
     "show-ionis-2026": {
       "type": "show",
