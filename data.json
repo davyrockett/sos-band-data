@@ -534,11 +534,11 @@
       "type": "song",
       "title": "With a Little Help from My Friends",
       "artist": "The Beatles",
-      "lead": "",
-      "key": "",
+      "lead": "m-cam",
+      "key": "E",
       "notes": "",
       "chart": "charts/with-a-little-help-from-my-friends.pdf",
-      "updatedAt": "2026-10-13T18:57:19.000Z",
+      "updatedAt": "2026-10-13T19:19:36.558Z",
       "source": "With a Little Help From My Friends.pdf"
     },
     "s-aint-no-sunshine": {
