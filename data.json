@@ -1213,15 +1213,51 @@
       "order": 11,
       "type": "member",
       "name": "Matt",
-      "instrument": "Keys",
+      "instrument": "Keys / Vox",
       "kind": "keys",
       "gear": [
         {
           "item": "Music Stand",
           "qty": 1
+        },
+        {
+          "item": "Keyboard",
+          "qty": 1
+        },
+        {
+          "item": "Keyboard Stand",
+          "qty": 1
+        },
+        {
+          "item": "1/4\" Cable",
+          "qty": 1
+        },
+        {
+          "item": "XLR Cable",
+          "qty": 2
+        },
+        {
+          "item": "DI Box",
+          "qty": 1
+        },
+        {
+          "item": "Mic",
+          "qty": 1
+        },
+        {
+          "item": "Mic Stand",
+          "qty": 1
+        },
+        {
+          "item": "Sustain Pedal",
+          "qty": 1
+        },
+        {
+          "item": "Power Adapter",
+          "qty": 1
         }
       ],
-      "updatedAt": "2026-10-13T19:24:00.544Z"
+      "updatedAt": "2026-10-13T19:55:03.859Z"
     }
   }
 }
