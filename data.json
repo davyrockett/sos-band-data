@@ -479,11 +479,11 @@
       "type": "song",
       "title": "Surfin' USA",
       "artist": "The Beach Boys",
-      "lead": "",
-      "key": "",
+      "lead": "m-joel",
+      "key": "C",
       "notes": "",
       "chart": "charts/surfin-usa.pdf",
-      "updatedAt": "2026-10-13T18:57:19.000Z",
+      "updatedAt": "2026-10-13T19:26:45.009Z",
       "source": "Surfin' USA.pdf"
     },
     "s-the-funk-surprise": {
