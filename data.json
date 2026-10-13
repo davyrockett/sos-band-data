@@ -873,7 +873,8 @@
         "s-under-the-boardwalk",
         "s-lets-stay-together",
         "s-folsom-prison-blues",
-        "s-drift-away"
+        "s-drift-away",
+        "note-mv73f2904qp7"
       ],
       "extras": [
         {
@@ -966,7 +967,10 @@
       ],
       "mixerNotes": "Amps not in the PA: Cliff (bass amp), Joel (E. guitar amp), David (E. guitar amp).",
       "order": 0,
-      "updatedAt": "2026-10-13T19:47:28.309Z"
+      "updatedAt": "2026-10-13T19:47:47.364Z",
+      "setNotes": {
+        "note-mv73f2904qp7": ""
+      }
     },
     "show-ionis-2026": {
       "type": "show",
