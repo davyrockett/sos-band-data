@@ -1019,11 +1019,6 @@
       "host": "Resounding Joy",
       "lineup": [
         {
-          "member": "m-cliff",
-          "x": 26.7,
-          "y": 3.1
-        },
-        {
           "member": "m-andrew",
           "x": 50,
           "y": 3.5
@@ -1179,7 +1174,7 @@
         "note-mv73fwxh5uuc": "Ashley Norton Song",
         "note-mv73gfvxgsi8": "Joel Speaks Here"
       },
-      "updatedAt": "2026-10-19T17:38:37.171Z"
+      "updatedAt": "2026-10-19T17:38:48.788Z"
     },
     "show-mvfjf7w3rh1j": {
       "type": "show",
