@@ -1010,6 +1010,186 @@
         }
       ],
       "updatedAt": "2026-10-13T20:07:51.058Z"
+    },
+    "show-mvfjcox1toc7": {
+      "type": "show",
+      "name": "New show",
+      "date": "",
+      "venue": "",
+      "host": "Resounding Joy",
+      "lineup": [
+        {
+          "member": "m-cliff",
+          "x": 26.7,
+          "y": 3.1
+        },
+        {
+          "member": "m-andrew",
+          "x": 50,
+          "y": 3.5
+        },
+        {
+          "member": "m-david",
+          "x": 48,
+          "y": 25.8
+        },
+        {
+          "member": "m-geno",
+          "x": 27.5,
+          "y": 31.3
+        },
+        {
+          "member": "m-joel",
+          "x": 80.2,
+          "y": 59.3
+        },
+        {
+          "member": "m-cam",
+          "x": 56.5,
+          "y": 57.9
+        },
+        {
+          "member": "m-mv72jckgz2bq",
+          "x": 37.3,
+          "y": 63.1
+        },
+        {
+          "member": "m-mv72khb316xq",
+          "x": 82.4,
+          "y": 3
+        }
+      ],
+      "setlist": [
+        "s-get-it-on",
+        "s-the-middle",
+        "s-i-will-survive",
+        "note-mv73fnk2kr3y",
+        "s-my-girl",
+        "s-burning-daylight",
+        "s-new-york-city",
+        "s-the-boys-of-summer",
+        "s-birds-of-a-feather",
+        "s-surfin-safari",
+        "break-mv730j5vg98w",
+        "note-mv73f2904qp7",
+        "s-just-my-imagination-running-away-with-me",
+        "s-stand-by-me",
+        "s-sesame-street-theme",
+        "s-dont-you-forget-about-me",
+        "s-the-funk-surprise",
+        "s-aint-no-sunshine",
+        "note-mv73gfvxgsi8",
+        "s-fayetteville",
+        "s-with-a-little-help-from-my-friends",
+        "break-mv731y0vswr6",
+        "note-mv73fwxh5uuc",
+        "s-valerie",
+        "s-margaritaville",
+        "s-surfin-usa",
+        "s-use-me",
+        "s-under-the-boardwalk",
+        "s-lets-stay-together",
+        "s-folsom-prison-blues",
+        "s-drift-away"
+      ],
+      "extras": [
+        {
+          "item": "Mackie Mixer (8-ch)",
+          "how": "",
+          "qty": 2,
+          "section": "Band"
+        },
+        {
+          "item": "Extension Cords",
+          "how": "",
+          "qty": 2,
+          "section": "Band"
+        },
+        {
+          "item": "Surge Protectors",
+          "how": "",
+          "qty": 3,
+          "section": "Band"
+        },
+        {
+          "item": "EV PA Speakers",
+          "how": "",
+          "qty": 2,
+          "section": "PA"
+        },
+        {
+          "item": "PA Speaker Stands",
+          "how": "",
+          "qty": 2,
+          "section": "PA"
+        },
+        {
+          "item": "Power Cables (Mixers)",
+          "how": "1 per mixer",
+          "qty": 2,
+          "section": "PA"
+        },
+        {
+          "item": "Power Cables (Speakers)",
+          "how": "1 per speaker",
+          "qty": 2,
+          "section": "PA"
+        },
+        {
+          "item": "Long XLR (Mixer → Speakers)",
+          "how": "1 per speaker",
+          "qty": 2,
+          "section": "PA"
+        },
+        {
+          "item": "XLR (Mixer A → Mixer B)",
+          "how": "Submix",
+          "qty": 1,
+          "section": "PA"
+        }
+      ],
+      "gearNotes": "Andrew's drum kit: confirm separately.",
+      "mixers": [
+        {
+          "name": "Mixer A",
+          "role": "Acoustic submix",
+          "channels": [
+            "Geno Ac. Guit (DI)",
+            "Corey Ac. Guit (DI)",
+            "Cam Ac. Guit (DI)",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "out": "Main Out → Mixer B ch 7 (1 XLR)"
+        },
+        {
+          "name": "Mixer B",
+          "role": "Master, out to PA",
+          "channels": [
+            "Corey Vox",
+            "Cam Vox",
+            "Joel Vox",
+            "David Vox",
+            "Jennifer Vox",
+            "Tim Vox",
+            "Acoustic submix (from Mixer A)",
+            ""
+          ],
+          "out": "Main Out L/R → EV Speaker L + R (2 long XLR)"
+        }
+      ],
+      "mixerNotes": "Amps not in the PA: Cliff (bass amp), Joel (E. guitar amp), David (E. guitar amp).",
+      "order": 0,
+      "setNotes": {
+        "note-mv73f2904qp7": "Indiana Guest Song",
+        "note-mv73fnk2kr3y": "Will Speaks Here",
+        "note-mv73fwxh5uuc": "Ashley Norton Song",
+        "note-mv73gfvxgsi8": "Joel Speaks Here"
+      },
+      "updatedAt": "2026-10-19T17:36:00.037Z"
     }
   }
 }
