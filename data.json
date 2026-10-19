@@ -1197,6 +1197,11 @@
           "member": "m-david",
           "x": 48,
           "y": 25.8
+        },
+        {
+          "member": "m-mvfjhda71wtj",
+          "x": 50,
+          "y": 33
         }
       ],
       "setlist": [
@@ -1329,7 +1334,21 @@
         "note-mv73fwxh5uuc": "Ashley Norton Song",
         "note-mv73gfvxgsi8": "Joel Speaks Here"
       },
-      "updatedAt": "2026-10-19T17:39:25.921Z"
+      "updatedAt": "2026-10-19T17:39:38.246Z"
+    },
+    "m-mvfjhda71wtj": {
+      "order": 14,
+      "type": "member",
+      "name": "Leah",
+      "instrument": "Vox",
+      "kind": "vocal",
+      "gear": [
+        {
+          "item": "Music Stand",
+          "qty": 1
+        }
+      ],
+      "updatedAt": "2026-10-19T17:39:38.239Z"
     }
   }
 }
