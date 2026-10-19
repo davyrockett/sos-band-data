@@ -707,7 +707,8 @@
         "s-under-the-boardwalk",
         "s-lets-stay-together",
         "s-folsom-prison-blues",
-        "s-drift-away"
+        "s-drift-away",
+        "note-mvfjkvyufklp"
       ],
       "extras": [
         {
@@ -800,12 +801,13 @@
       ],
       "mixerNotes": "Amps not in the PA: Cliff (bass amp), Joel (E. guitar amp), David (E. guitar amp).",
       "order": 0,
-      "updatedAt": "2026-10-19T17:42:17.157Z",
+      "updatedAt": "2026-10-19T17:42:22.422Z",
       "setNotes": {
         "note-mv73f2904qp7": "Indiana Guest Song",
         "note-mv73fnk2kr3y": "Will Speaks Here",
         "note-mv73fwxh5uuc": "Ashley Norton Song",
-        "note-mv73gfvxgsi8": "Joel Speaks Here"
+        "note-mv73gfvxgsi8": "Joel Speaks Here",
+        "note-mvfjkvyufklp": ""
       }
     },
     "show-ionis-2026": {
