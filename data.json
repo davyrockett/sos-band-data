@@ -1199,24 +1199,9 @@
           "y": 25.8
         },
         {
-          "member": "m-geno",
-          "x": 27.5,
-          "y": 31.3
-        },
-        {
           "member": "m-joel",
           "x": 80.2,
           "y": 59.3
-        },
-        {
-          "member": "m-cam",
-          "x": 56.5,
-          "y": 57.9
-        },
-        {
-          "member": "m-mv72jckgz2bq",
-          "x": 37.3,
-          "y": 63.1
         },
         {
           "member": "m-mv72khb316xq",
@@ -1354,7 +1339,7 @@
         "note-mv73fwxh5uuc": "Ashley Norton Song",
         "note-mv73gfvxgsi8": "Joel Speaks Here"
       },
-      "updatedAt": "2026-10-19T17:38:12.857Z"
+      "updatedAt": "2026-10-19T17:39:09.020Z"
     }
   }
 }
