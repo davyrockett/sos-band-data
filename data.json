@@ -4,7 +4,7 @@
   "items": {
     "m-cliff": {
       "type": "member",
-      "name": "Cliff",
+      "name": "David",
       "instrument": "Bass",
       "kind": "bass",
       "gear": [
@@ -26,7 +26,7 @@
         }
       ],
       "order": 0,
-      "updatedAt": "2026-10-13T12:00:00.000Z"
+      "updatedAt": "2026-10-25T02:09:00.465Z"
     },
     "m-andrew": {
       "type": "member",
