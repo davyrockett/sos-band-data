@@ -522,8 +522,9 @@
       "key": "D",
       "notes": "",
       "chart": "charts/the-middle.pdf",
-      "updatedAt": "2026-10-13T19:05:42.861Z",
-      "source": "The Middle.pdf"
+      "updatedAt": "2026-10-25T20:14:42.507Z",
+      "source": "The Middle.pdf",
+      "bpm": 124
     },
     "s-under-the-boardwalk": {
       "type": "song",
