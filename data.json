@@ -784,13 +784,29 @@
       ],
       "mixerNotes": "Amps not in the PA: Cliff (bass amp), Joel (E. guitar amp), David (E. guitar amp).",
       "order": 0,
-      "updatedAt": "2026-10-25T02:01:05.959Z",
+      "updatedAt": "2026-10-25T02:04:48.480Z",
       "setNotes": {
         "note-mv73f2904qp7": "Indiana Guest Song",
         "note-mv73fnk2kr3y": "Will Speaks Here",
         "note-mv73fwxh5uuc": "Ashley Norton Song",
         "note-mv73gfvxgsi8": "Joel Speaks Here",
         "note-mvfjkvyufklp": "Geno Speaks Here"
+      },
+      "mix": {
+        "setup": "one",
+        "ch": {
+          "1": "m-david|mic|0",
+          "2": "m-mv72jckgz2bq|mic|0",
+          "3": "m-cam|mic|0",
+          "4": "m-joel|mic|0",
+          "5": "m-mv72khb316xq|mic|0",
+          "6": "m-geno|di|0",
+          "7": "m-cam|di|0",
+          "8": "m-mv72khb316xq|di|0",
+          "9": "",
+          "10": ""
+        },
+        "off": []
       }
     },
     "show-ionis-2026": {
