@@ -400,8 +400,9 @@
       "key": "E",
       "notes": "",
       "chart": "charts/get-it-on.pdf",
-      "updatedAt": "2026-10-13T21:15:13.523Z",
-      "source": "Get It On.pdf"
+      "updatedAt": "2026-10-25T20:14:27.086Z",
+      "source": "Get It On.pdf",
+      "bpm": 96
     },
     "s-i-will-survive": {
       "type": "song",
