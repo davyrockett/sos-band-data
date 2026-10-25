@@ -655,8 +655,8 @@
       "lineup": [
         {
           "member": "m-cliff",
-          "x": 66.9,
-          "y": 24
+          "x": 44.4,
+          "y": 25.7
         },
         {
           "member": "m-andrew",
@@ -800,7 +800,7 @@
       ],
       "mixerNotes": "",
       "order": 0,
-      "updatedAt": "2026-10-25T02:17:50.997Z",
+      "updatedAt": "2026-10-25T02:17:57.317Z",
       "setNotes": {
         "note-mv73f2904qp7": "Indiana Guest Song",
         "note-mv73fnk2kr3y": "Will Speaks Here",
