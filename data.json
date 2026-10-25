@@ -412,8 +412,9 @@
       "key": "em",
       "notes": "",
       "chart": "charts/i-will-survive.pdf",
-      "updatedAt": "2026-10-19T17:44:26.337Z",
-      "source": "I Will Survive.pdf"
+      "updatedAt": "2026-10-25T20:16:44.276Z",
+      "source": "I Will Survive.pdf",
+      "bpm": 108
     },
     "s-lets-stay-together": {
       "type": "song",
