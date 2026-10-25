@@ -800,7 +800,7 @@
       ],
       "mixerNotes": "",
       "order": 0,
-      "updatedAt": "2026-10-25T15:17:45.726Z",
+      "updatedAt": "2026-10-25T15:19:03.006Z",
       "setNotes": {
         "note-mv73f2904qp7": "Indiana Guest Song",
         "note-mv73fnk2kr3y": "Will Speaks Here",
@@ -825,7 +825,7 @@
           "A2": "m-cam|mic|0",
           "A3": "m-joel|mic|0",
           "A4": "m-cliff|mic|0",
-          "A5": "",
+          "A5": "m-david|mic|0",
           "A6": "",
           "A7": "",
           "A8": "",
@@ -834,13 +834,14 @@
           "B3": "m-cliff|mic|0",
           "B4": "m-cam|mic|0",
           "B5": "m-joel|mic|0",
-          "B6": ""
+          "B6": "m-mv72khb316xq|mic|0"
         },
         "known": [
           "m-david|mic|0",
           "m-mv72jckgz2bq|mic|0",
           "m-cliff|mic|0",
           "m-cam|mic|0",
+          "m-mv72khb316xq|mic|0",
           "m-joel|mic|0",
           "m-geno|di|0",
           "m-cam|di|0",
