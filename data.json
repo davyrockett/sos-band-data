@@ -925,7 +925,7 @@
       "order": 11,
       "type": "member",
       "name": "Cliff",
-      "instrument": "Keys",
+      "instrument": "Keys / Vox",
       "kind": "keys",
       "gear": [
         {
@@ -946,7 +946,7 @@
         },
         {
           "item": "XLR Cable",
-          "qty": 1
+          "qty": 2
         },
         {
           "item": "DI Box",
@@ -959,9 +959,17 @@
         {
           "item": "Power Adapter",
           "qty": 1
+        },
+        {
+          "item": "Mic",
+          "qty": 1
+        },
+        {
+          "item": "Mic Stand",
+          "qty": 1
         }
       ],
-      "updatedAt": "2026-10-25T02:09:50.748Z"
+      "updatedAt": "2026-10-25T15:18:53.261Z"
     },
     "m-mv743s281dsc": {
       "order": 12,
