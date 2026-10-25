@@ -713,12 +713,6 @@
       ],
       "extras": [
         {
-          "item": "Mackie Mixer (8-ch)",
-          "how": "",
-          "qty": 2,
-          "section": "Band"
-        },
-        {
           "item": "Extension Cords",
           "how": "",
           "qty": 2,
@@ -743,12 +737,6 @@
           "section": "PA"
         },
         {
-          "item": "Power Cables (Mixers)",
-          "how": "1 per mixer",
-          "qty": 2,
-          "section": "PA"
-        },
-        {
           "item": "Power Cables (Speakers)",
           "how": "1 per speaker",
           "qty": 2,
@@ -758,12 +746,6 @@
           "item": "Long XLR (Mixer → Speakers)",
           "how": "1 per speaker",
           "qty": 2,
-          "section": "PA"
-        },
-        {
-          "item": "XLR (Mixer A → Mixer B)",
-          "how": "Submix",
-          "qty": 1,
           "section": "PA"
         }
       ],
@@ -802,7 +784,7 @@
       ],
       "mixerNotes": "Amps not in the PA: Cliff (bass amp), Joel (E. guitar amp), David (E. guitar amp).",
       "order": 0,
-      "updatedAt": "2026-10-19T17:43:23.639Z",
+      "updatedAt": "2026-10-25T02:01:05.959Z",
       "setNotes": {
         "note-mv73f2904qp7": "Indiana Guest Song",
         "note-mv73fnk2kr3y": "Will Speaks Here",
@@ -1081,12 +1063,6 @@
       ],
       "extras": [
         {
-          "item": "Mackie Mixer (8-ch)",
-          "how": "",
-          "qty": 2,
-          "section": "Band"
-        },
-        {
           "item": "Extension Cords",
           "how": "",
           "qty": 2,
@@ -1111,12 +1087,6 @@
           "section": "PA"
         },
         {
-          "item": "Power Cables (Mixers)",
-          "how": "1 per mixer",
-          "qty": 2,
-          "section": "PA"
-        },
-        {
           "item": "Power Cables (Speakers)",
           "how": "1 per speaker",
           "qty": 2,
@@ -1126,12 +1096,6 @@
           "item": "Long XLR (Mixer → Speakers)",
           "how": "1 per speaker",
           "qty": 2,
-          "section": "PA"
-        },
-        {
-          "item": "XLR (Mixer A → Mixer B)",
-          "how": "Submix",
-          "qty": 1,
           "section": "PA"
         }
       ],
@@ -1176,7 +1140,7 @@
         "note-mv73fwxh5uuc": "Ashley Norton Song",
         "note-mv73gfvxgsi8": "Joel Speaks Here"
       },
-      "updatedAt": "2026-10-19T17:38:48.788Z"
+      "updatedAt": "2026-10-25T02:01:05.959Z"
     },
     "show-mvfjf7w3rh1j": {
       "type": "show",
@@ -1241,12 +1205,6 @@
       ],
       "extras": [
         {
-          "item": "Mackie Mixer (8-ch)",
-          "how": "",
-          "qty": 2,
-          "section": "Band"
-        },
-        {
           "item": "Extension Cords",
           "how": "",
           "qty": 2,
@@ -1271,12 +1229,6 @@
           "section": "PA"
         },
         {
-          "item": "Power Cables (Mixers)",
-          "how": "1 per mixer",
-          "qty": 2,
-          "section": "PA"
-        },
-        {
           "item": "Power Cables (Speakers)",
           "how": "1 per speaker",
           "qty": 2,
@@ -1286,12 +1238,6 @@
           "item": "Long XLR (Mixer → Speakers)",
           "how": "1 per speaker",
           "qty": 2,
-          "section": "PA"
-        },
-        {
-          "item": "XLR (Mixer A → Mixer B)",
-          "how": "Submix",
-          "qty": 1,
           "section": "PA"
         }
       ],
@@ -1336,7 +1282,7 @@
         "note-mv73fwxh5uuc": "Ashley Norton Song",
         "note-mv73gfvxgsi8": "Joel Speaks Here"
       },
-      "updatedAt": "2026-10-19T17:39:38.246Z"
+      "updatedAt": "2026-10-25T02:01:05.959Z"
     },
     "m-mvfjhda71wtj": {
       "order": 14,
