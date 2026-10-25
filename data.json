@@ -1356,9 +1356,17 @@
         {
           "item": "Music Stand",
           "qty": 1
+        },
+        {
+          "item": "Mic",
+          "qty": 1
+        },
+        {
+          "item": "Mic Stand",
+          "qty": 1
         }
       ],
-      "updatedAt": "2026-10-19T17:39:38.239Z"
+      "updatedAt": "2026-10-25T15:21:13.180Z"
     }
   }
 }
