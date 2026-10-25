@@ -692,6 +692,11 @@
           "member": "m-mv72khb316xq",
           "x": 68.4,
           "y": 23.5
+        },
+        {
+          "member": "m-mvfjhda71wtj",
+          "x": 50,
+          "y": 33
         }
       ],
       "setlist": [
@@ -800,7 +805,7 @@
       ],
       "mixerNotes": "",
       "order": 0,
-      "updatedAt": "2026-10-25T15:20:30.460Z",
+      "updatedAt": "2026-10-25T15:20:43.112Z",
       "setNotes": {
         "note-mv73f2904qp7": "Indiana Guest Song",
         "note-mv73fnk2kr3y": "Will Speaks Here",
