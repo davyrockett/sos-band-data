@@ -665,8 +665,8 @@
         },
         {
           "member": "m-david",
-          "x": 41.7,
-          "y": 24.1
+          "x": 23.1,
+          "y": 24.5
         },
         {
           "member": "m-geno",
@@ -800,7 +800,7 @@
       ],
       "mixerNotes": "",
       "order": 0,
-      "updatedAt": "2026-10-25T02:17:12.332Z",
+      "updatedAt": "2026-10-25T02:17:50.997Z",
       "setNotes": {
         "note-mv73f2904qp7": "Indiana Guest Song",
         "note-mv73fnk2kr3y": "Will Speaks Here",
