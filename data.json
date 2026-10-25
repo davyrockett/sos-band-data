@@ -784,7 +784,7 @@
       ],
       "mixerNotes": "Amps not in the PA: Cliff (bass amp), Joel (E. guitar amp), David (E. guitar amp).",
       "order": 0,
-      "updatedAt": "2026-10-25T02:04:48.480Z",
+      "updatedAt": "2026-10-25T02:04:53.363Z",
       "setNotes": {
         "note-mv73f2904qp7": "Indiana Guest Song",
         "note-mv73fnk2kr3y": "Will Speaks Here",
@@ -793,7 +793,7 @@
         "note-mvfjkvyufklp": "Geno Speaks Here"
       },
       "mix": {
-        "setup": "one",
+        "setup": "two",
         "ch": {
           "1": "m-david|mic|0",
           "2": "m-mv72jckgz2bq|mic|0",
