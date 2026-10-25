@@ -5,7 +5,7 @@
     "m-cliff": {
       "type": "member",
       "name": "David",
-      "instrument": "Bass",
+      "instrument": "Bass / Vox",
       "kind": "bass",
       "gear": [
         {
@@ -23,10 +23,22 @@
         {
           "item": "1/4\" Cable",
           "qty": 1
+        },
+        {
+          "item": "Mic",
+          "qty": 1
+        },
+        {
+          "item": "Mic Stand",
+          "qty": 1
+        },
+        {
+          "item": "XLR Cable",
+          "qty": 1
         }
       ],
       "order": 0,
-      "updatedAt": "2026-10-25T02:09:00.465Z"
+      "updatedAt": "2026-10-25T02:10:25.830Z"
     },
     "m-andrew": {
       "type": "member",
