@@ -800,7 +800,7 @@
       ],
       "mixerNotes": "",
       "order": 0,
-      "updatedAt": "2026-10-25T02:18:08.046Z",
+      "updatedAt": "2026-10-25T15:16:30.757Z",
       "setNotes": {
         "note-mv73f2904qp7": "Indiana Guest Song",
         "note-mv73fnk2kr3y": "Will Speaks Here",
@@ -809,7 +809,7 @@
         "note-mvfjkvyufklp": "Geno Speaks Here"
       },
       "mix": {
-        "setup": "one",
+        "setup": "two",
         "ch": {
           "1": "m-cam|mic|0",
           "2": "m-mv72jckgz2bq|mic|0",
