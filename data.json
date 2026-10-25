@@ -48,7 +48,7 @@
     },
     "m-david": {
       "type": "member",
-      "name": "David",
+      "name": "Matt",
       "instrument": "E. Guitar / Vox",
       "kind": "electric",
       "gear": [
@@ -86,7 +86,7 @@
         }
       ],
       "order": 2,
-      "updatedAt": "2026-10-13T12:00:00.000Z"
+      "updatedAt": "2026-10-25T02:09:17.382Z"
     },
     "m-geno": {
       "type": "member",
