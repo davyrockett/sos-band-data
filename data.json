@@ -661,8 +661,8 @@
         },
         {
           "member": "m-david",
-          "x": 48,
-          "y": 25.8
+          "x": 12.1,
+          "y": 3.6
         },
         {
           "member": "m-geno",
@@ -796,7 +796,7 @@
       ],
       "mixerNotes": "Amps not in the PA: Cliff (bass amp), Joel (E. guitar amp), David (E. guitar amp).",
       "order": 0,
-      "updatedAt": "2026-10-25T02:05:28.141Z",
+      "updatedAt": "2026-10-25T02:12:00.142Z",
       "setNotes": {
         "note-mv73f2904qp7": "Indiana Guest Song",
         "note-mv73fnk2kr3y": "Will Speaks Here",
