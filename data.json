@@ -1268,14 +1268,14 @@
         "s-get-it-on",
         "s-stand-by-me",
         "s-aint-no-sunshine",
+        "s-old-shoes-and-picture-postcards",
         "s-i-will-survive",
         "s-birds-of-a-feather",
         "s-sesame-street-theme",
         "s-with-a-little-help-from-my-friends",
         "s-margaritaville",
         "s-folsom-prison-blues",
-        "s-drift-away",
-        "s-old-shoes-and-picture-postcards"
+        "s-drift-away"
       ],
       "extras": [
         {
@@ -1351,7 +1351,7 @@
       "mixerNotes": "Amps not in the PA: Cliff (bass amp), Joel (E. guitar amp), David (E. guitar amp).",
       "order": 0,
       "setNotes": {},
-      "updatedAt": "2026-10-26T16:20:18.311Z",
+      "updatedAt": "2026-10-26T16:20:27.955Z",
       "leads": {
         "s-aint-no-sunshine": "m-cliff",
         "s-margaritaville": "m-corey",
