@@ -382,8 +382,9 @@
       "key": "A",
       "notes": "",
       "chart": "charts/fayetteville.pdf",
-      "updatedAt": "2026-10-13T19:19:53.624Z",
-      "source": "Fayetteville.pdf"
+      "updatedAt": "2026-10-26T02:02:03.960Z",
+      "source": "Fayetteville.pdf",
+      "bpm": 154
     },
     "s-folsom-prison-blues": {
       "type": "song",
