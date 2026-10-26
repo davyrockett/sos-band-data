@@ -1271,7 +1271,6 @@
         "s-stand-by-me",
         "s-sesame-street-theme",
         "s-aint-no-sunshine",
-        "note-mv73gfvxgsi8",
         "s-with-a-little-help-from-my-friends",
         "break-mv731y0vswr6",
         "note-mv73fwxh5uuc",
@@ -1357,10 +1356,9 @@
       "mixerNotes": "Amps not in the PA: Cliff (bass amp), Joel (E. guitar amp), David (E. guitar amp).",
       "order": 0,
       "setNotes": {
-        "note-mv73fwxh5uuc": "Ashley Norton Song",
-        "note-mv73gfvxgsi8": "Joel Speaks Here"
+        "note-mv73fwxh5uuc": "Ashley Norton Song"
       },
-      "updatedAt": "2026-10-26T16:19:13.061Z",
+      "updatedAt": "2026-10-26T16:19:16.526Z",
       "leads": {
         "s-aint-no-sunshine": "m-cliff",
         "s-margaritaville": "m-corey",
