@@ -1266,9 +1266,9 @@
       ],
       "setlist": [
         "s-get-it-on",
+        "s-stand-by-me",
         "s-i-will-survive",
         "s-birds-of-a-feather",
-        "s-stand-by-me",
         "s-sesame-street-theme",
         "s-aint-no-sunshine",
         "s-with-a-little-help-from-my-friends",
@@ -1351,7 +1351,7 @@
       "mixerNotes": "Amps not in the PA: Cliff (bass amp), Joel (E. guitar amp), David (E. guitar amp).",
       "order": 0,
       "setNotes": {},
-      "updatedAt": "2026-10-26T16:19:37.062Z",
+      "updatedAt": "2026-10-26T16:20:05.529Z",
       "leads": {
         "s-aint-no-sunshine": "m-cliff",
         "s-margaritaville": "m-corey",
