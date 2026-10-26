@@ -1107,6 +1107,11 @@
           "member": "m-mv72jckgz2bq",
           "x": 37.3,
           "y": 63.1
+        },
+        {
+          "member": "m-cliff",
+          "x": 50,
+          "y": 33
         }
       ],
       "setlist": [
@@ -1221,7 +1226,7 @@
         "note-mv73fwxh5uuc": "Ashley Norton Song",
         "note-mv73gfvxgsi8": "Joel Speaks Here"
       },
-      "updatedAt": "2026-10-26T15:56:04.338Z"
+      "updatedAt": "2026-10-26T15:56:08.537Z"
     },
     "show-mvfjf7w3rh1j": {
       "type": "show",
