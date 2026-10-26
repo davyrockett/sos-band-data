@@ -453,8 +453,9 @@
       "key": "G",
       "notes": "",
       "chart": "charts/new-york-city.pdf",
-      "updatedAt": "2026-10-13T19:05:16.744Z",
-      "source": "New York City.pdf"
+      "updatedAt": "2026-10-26T01:59:58.218Z",
+      "source": "New York City.pdf",
+      "bpm": 105
     },
     "s-old-shoes-and-picture-postcards": {
       "type": "song",
