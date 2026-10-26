@@ -1266,9 +1266,7 @@
       ],
       "setlist": [
         "s-get-it-on",
-        "s-the-middle",
         "s-i-will-survive",
-        "note-mv73fnk2kr3y",
         "s-my-girl",
         "s-the-boys-of-summer",
         "s-birds-of-a-feather",
@@ -1367,11 +1365,10 @@
       "order": 0,
       "setNotes": {
         "note-mv73f2904qp7": "Indiana Guest Song",
-        "note-mv73fnk2kr3y": "Will Speaks Here",
         "note-mv73fwxh5uuc": "Ashley Norton Song",
         "note-mv73gfvxgsi8": "Joel Speaks Here"
       },
-      "updatedAt": "2026-10-26T16:18:22.748Z",
+      "updatedAt": "2026-10-26T16:18:44.249Z",
       "leads": {
         "s-aint-no-sunshine": "m-cliff",
         "s-margaritaville": "m-corey",
