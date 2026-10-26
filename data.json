@@ -1214,11 +1214,12 @@
       "mixerNotes": "Amps not in the PA: Cliff (bass amp), Joel (E. guitar amp), David (E. guitar amp).",
       "order": 0,
       "setNotes": {},
-      "updatedAt": "2026-10-26T16:23:41.317Z",
+      "updatedAt": "2026-10-26T16:24:25.140Z",
       "length": 120,
       "leads": {
         "s-get-it-on": "m-cliff",
-        "s-with-a-little-help-from-my-friends": "m-joel"
+        "s-with-a-little-help-from-my-friends": "m-joel",
+        "s-drift-away": "m-cliff"
       }
     },
     "show-mvfjf7w3rh1j": {
