@@ -828,7 +828,7 @@
       ],
       "mixerNotes": "",
       "order": 0,
-      "updatedAt": "2026-10-26T02:15:23.814Z",
+      "updatedAt": "2026-10-26T16:16:00.129Z",
       "setNotes": {
         "note-mv73f2904qp7": "Indiana Guest Song",
         "note-mv73fnk2kr3y": "Will Speaks Here",
@@ -878,7 +878,8 @@
           "m-joel|di|0"
         ],
         "monitors": 1
-      }
+      },
+      "length": 90
     },
     "show-ionis-2026": {
       "deleted": true,
