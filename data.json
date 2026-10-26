@@ -390,11 +390,11 @@
       "type": "song",
       "title": "Folsom Prison Blues",
       "artist": "Johnny Cash",
-      "lead": "m-david",
+      "lead": "m-cliff",
       "key": "G",
       "notes": "",
       "chart": "charts/folsom-prison-blues.pdf",
-      "updatedAt": "2026-10-26T01:21:10.000Z",
+      "updatedAt": "2026-10-26T15:37:14.620Z",
       "source": "Folsom Prison Blues.pdf",
       "bpm": 110
     },
