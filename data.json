@@ -1272,9 +1272,7 @@
         "s-sesame-street-theme",
         "s-aint-no-sunshine",
         "s-with-a-little-help-from-my-friends",
-        "note-mv73fwxh5uuc",
         "s-margaritaville",
-        "s-surfin-usa",
         "s-use-me",
         "s-lets-stay-together",
         "s-folsom-prison-blues",
@@ -1354,10 +1352,8 @@
       ],
       "mixerNotes": "Amps not in the PA: Cliff (bass amp), Joel (E. guitar amp), David (E. guitar amp).",
       "order": 0,
-      "setNotes": {
-        "note-mv73fwxh5uuc": "Ashley Norton Song"
-      },
-      "updatedAt": "2026-10-26T16:19:18.931Z",
+      "setNotes": {},
+      "updatedAt": "2026-10-26T16:19:34.544Z",
       "leads": {
         "s-aint-no-sunshine": "m-cliff",
         "s-margaritaville": "m-corey",
