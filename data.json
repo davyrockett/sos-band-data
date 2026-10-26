@@ -462,12 +462,13 @@
       "type": "song",
       "title": "Old Shoes and Picture Postcards",
       "artist": "Tom Waits",
-      "lead": "",
+      "lead": "m-corey",
       "key": "",
       "notes": "",
       "chart": "charts/old-shoes-and-picture-postcards.pdf",
-      "updatedAt": "2026-10-13T18:57:19.000Z",
-      "source": "Old Shoes and Picture Postcards.pdf"
+      "updatedAt": "2026-10-26T15:57:30.501Z",
+      "source": "Old Shoes and Picture Postcards.pdf",
+      "bpm": null
     },
     "s-sesame-street-theme": {
       "type": "song",
