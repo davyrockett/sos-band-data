@@ -335,8 +335,9 @@
       "key": "am",
       "notes": "",
       "chart": "charts/burning-daylight.pdf",
-      "updatedAt": "2026-10-13T19:18:51.974Z",
-      "source": "Burning Daylight.pdf"
+      "updatedAt": "2026-10-26T01:59:13.276Z",
+      "source": "Burning Daylight.pdf",
+      "bpm": 111
     },
     "s-come-and-get-your-love": {
       "type": "song",
