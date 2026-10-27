@@ -1225,8 +1225,8 @@
       "lineup": [
         {
           "member": "m-cliff",
-          "x": 35.8,
-          "y": 16.5
+          "x": 25.4,
+          "y": 20.2
         },
         {
           "member": "m-andrew",
@@ -1336,7 +1336,7 @@
       "mixerNotes": "Amps not in the PA: Cliff (bass amp), Joel (E. guitar amp), David (E. guitar amp).",
       "order": 0,
       "setNotes": {},
-      "updatedAt": "2026-10-27T21:51:55.669Z",
+      "updatedAt": "2026-10-27T21:52:03.153Z",
       "leads": {
         "s-aint-no-sunshine": "m-cliff",
         "s-margaritaville": "m-corey",
