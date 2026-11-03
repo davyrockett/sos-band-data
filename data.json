@@ -1215,7 +1215,7 @@
       "mixerNotes": "Amps not in the PA: Cliff (bass amp), Joel (E. guitar amp), David (E. guitar amp).",
       "order": 0,
       "setNotes": {},
-      "updatedAt": "2026-11-03T22:15:50.332Z",
+      "updatedAt": "2026-11-03T22:16:17.508Z",
       "length": 120,
       "leads": {
         "s-get-it-on": "m-cliff",
@@ -1225,7 +1225,27 @@
         "s-margaritaville": "m-cliff"
       },
       "mix": {
-        "setup": "one"
+        "setup": "one",
+        "ch": {
+          "1": "m-mv72jckgz2bq|mic|0",
+          "2": "m-mv72jckgz2bq|mic|0",
+          "3": "m-mvfjhda71wtj|mic|0",
+          "4": "m-joel|mic|0",
+          "5": "m-cliff|mic|0",
+          "6": "m-joel|di|0",
+          "7": "",
+          "8": "",
+          "9": "",
+          "10": ""
+        },
+        "known": [
+          "m-david|mic|0",
+          "m-mv72jckgz2bq|mic|0",
+          "m-mvfjhda71wtj|mic|0",
+          "m-joel|mic|0",
+          "m-cliff|mic|0",
+          "m-joel|di|0"
+        ]
       }
     },
     "show-mvfjf7w3rh1j": {
