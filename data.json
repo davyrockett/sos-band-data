@@ -824,7 +824,7 @@
       ],
       "mixerNotes": "",
       "order": 0,
-      "updatedAt": "2026-11-03T00:35:07.810Z",
+      "updatedAt": "2026-11-03T00:35:26.973Z",
       "setNotes": {
         "note-mv73fnk2kr3y": "Will Speaks Here",
         "note-mv73fwxh5uuc": "Ashley Norton Song",
@@ -877,7 +877,7 @@
         ],
         "monitors": 1,
         "knobs": {},
-        "fx": 3
+        "fx": 5
       },
       "length": 90
     },
