@@ -1102,8 +1102,8 @@
         },
         {
           "member": "m-joel",
-          "x": 80.2,
-          "y": 59.3
+          "x": 63.5,
+          "y": 53.5
         },
         {
           "member": "m-mv72jckgz2bq",
@@ -1215,7 +1215,7 @@
       "mixerNotes": "Amps not in the PA: Cliff (bass amp), Joel (E. guitar amp), David (E. guitar amp).",
       "order": 0,
       "setNotes": {},
-      "updatedAt": "2026-11-03T22:15:20.681Z",
+      "updatedAt": "2026-11-03T22:15:24.265Z",
       "length": 120,
       "leads": {
         "s-get-it-on": "m-cliff",
