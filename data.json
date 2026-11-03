@@ -1136,7 +1136,8 @@
         "s-surfin-usa",
         "s-use-me",
         "s-surfin-safari",
-        "s-stand-by-me"
+        "s-stand-by-me",
+        "s-margaritaville"
       ],
       "extras": [
         {
@@ -1212,7 +1213,7 @@
       "mixerNotes": "Amps not in the PA: Cliff (bass amp), Joel (E. guitar amp), David (E. guitar amp).",
       "order": 0,
       "setNotes": {},
-      "updatedAt": "2026-11-03T22:12:17.073Z",
+      "updatedAt": "2026-11-03T22:12:20.199Z",
       "length": 120,
       "leads": {
         "s-get-it-on": "m-cliff",
