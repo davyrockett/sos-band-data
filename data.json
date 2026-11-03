@@ -1122,10 +1122,10 @@
         }
       ],
       "setlist": [
+        "s-burning-daylight",
         "s-get-it-on",
         "s-the-middle",
         "s-my-girl",
-        "s-burning-daylight",
         "s-the-boys-of-summer",
         "s-folsom-prison-blues",
         "s-surfin-safari",
@@ -1215,7 +1215,7 @@
       "mixerNotes": "Amps not in the PA: Cliff (bass amp), Joel (E. guitar amp), David (E. guitar amp).",
       "order": 0,
       "setNotes": {},
-      "updatedAt": "2026-11-03T22:06:48.701Z",
+      "updatedAt": "2026-11-03T22:10:18.519Z",
       "length": 120,
       "leads": {
         "s-get-it-on": "m-cliff",
