@@ -805,6 +805,12 @@
           "how": "",
           "qty": 1,
           "section": "Band"
+        },
+        {
+          "item": "New item",
+          "how": "",
+          "qty": 1,
+          "section": "Band"
         }
       ],
       "gearNotes": "Andrew's drum kit: confirm separately.",
@@ -842,7 +848,7 @@
       ],
       "mixerNotes": "",
       "order": 0,
-      "updatedAt": "2026-11-06T23:56:04.134Z",
+      "updatedAt": "2026-11-07T15:40:11.877Z",
       "setNotes": {
         "note-mv73fnk2kr3y": "Will Speaks Here",
         "note-mv73fwxh5uuc": "Ashley Norton Song",
