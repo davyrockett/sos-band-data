@@ -1309,6 +1309,253 @@
         }
       ],
       "updatedAt": "2026-10-25T15:21:13.180Z"
+    },
+    "show-mwjy9bghfgan": {
+      "type": "show",
+      "name": "Rehearsal for Living Your Dreams",
+      "date": "",
+      "venue": "",
+      "host": "Resounding Joy",
+      "lineup": [
+        {
+          "member": "m-cliff",
+          "x": 44.4,
+          "y": 25.7
+        },
+        {
+          "member": "m-andrew",
+          "x": 55.1,
+          "y": 4.4
+        },
+        {
+          "member": "m-david",
+          "x": 23.1,
+          "y": 24.5
+        },
+        {
+          "member": "m-geno",
+          "x": 13.3,
+          "y": 60.5
+        },
+        {
+          "member": "m-joel",
+          "x": 79.5,
+          "y": 57.7
+        },
+        {
+          "member": "m-cam",
+          "x": 56.5,
+          "y": 57.9
+        },
+        {
+          "member": "m-mv72jckgz2bq",
+          "x": 34.8,
+          "y": 59.3
+        },
+        {
+          "member": "m-mv72khb316xq",
+          "x": 82.9,
+          "y": 4.5
+        },
+        {
+          "member": "m-mvfjhda71wtj",
+          "x": 67.3,
+          "y": 33.2
+        }
+      ],
+      "setlist": [
+        "s-dont-you-forget-about-me",
+        "s-get-it-on",
+        "s-the-middle",
+        "note-mv73fnk2kr3y",
+        "s-my-girl",
+        "s-surfin-safari",
+        "s-new-york-city",
+        "note-mv73gfvxgsi8",
+        "s-burning-daylight",
+        "s-i-will-survive",
+        "break-mv730j5vg98w",
+        "note-mvr7jyf6g10s",
+        "note-mvr72wistlh4",
+        "break-mv731y0vswr6",
+        "s-just-my-imagination-running-away-with-me",
+        "s-the-boys-of-summer",
+        "note-mvr7j06awqbc",
+        "s-stand-by-me",
+        "s-sesame-street-theme",
+        "note-mvfjkvyufklp",
+        "s-aint-no-sunshine",
+        "s-fayetteville",
+        "note-mv73fwxh5uuc",
+        "s-drift-away",
+        "s-with-a-little-help-from-my-friends"
+      ],
+      "extras": [
+        {
+          "item": "Extension Cords",
+          "how": "",
+          "qty": 2,
+          "section": "Band"
+        },
+        {
+          "item": "Surge Protectors",
+          "how": "",
+          "qty": 3,
+          "section": "Band"
+        },
+        {
+          "item": "EV PA Speakers",
+          "how": "",
+          "qty": 2,
+          "section": "PA"
+        },
+        {
+          "item": "PA Speaker Stands",
+          "how": "",
+          "qty": 2,
+          "section": "PA"
+        },
+        {
+          "item": "Power Cables (Speakers)",
+          "how": "1 per speaker",
+          "qty": 2,
+          "section": "PA"
+        },
+        {
+          "item": "Long XLR (Mixer → Speakers)",
+          "how": "1 per speaker",
+          "qty": 2,
+          "section": "PA"
+        },
+        {
+          "item": "Wireless Mic Dongles",
+          "how": "",
+          "qty": 1,
+          "section": "Band"
+        },
+        {
+          "item": "Mic for Speakers",
+          "how": "",
+          "qty": 1,
+          "section": "Band"
+        },
+        {
+          "item": "1/8\" Cable",
+          "how": "",
+          "qty": 1,
+          "section": "Band"
+        },
+        {
+          "item": "Gaffe Tape",
+          "how": "",
+          "qty": 1,
+          "section": "Band"
+        },
+        {
+          "item": "Masking Tape",
+          "how": "",
+          "qty": 1,
+          "section": "Band"
+        },
+        {
+          "item": "Sharpie",
+          "how": "",
+          "qty": 1,
+          "section": "Band"
+        }
+      ],
+      "gearNotes": "Andrew's drum kit: confirm separately.",
+      "mixers": [
+        {
+          "name": "Mixer A",
+          "role": "Acoustic submix",
+          "channels": [
+            "Geno Ac. Guit (DI)",
+            "Corey Ac. Guit (DI)",
+            "Cam Ac. Guit (DI)",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "out": "Main Out → Mixer B ch 7 (1 XLR)"
+        },
+        {
+          "name": "Mixer B",
+          "role": "Master, out to PA",
+          "channels": [
+            "Corey Vox",
+            "Cam Vox",
+            "Joel Vox",
+            "David Vox",
+            "Jennifer Vox",
+            "Tim Vox",
+            "Acoustic submix (from Mixer A)",
+            ""
+          ],
+          "out": "Main Out L/R → EV Speaker L + R (2 long XLR)"
+        }
+      ],
+      "mixerNotes": "",
+      "order": 0,
+      "setNotes": {
+        "note-mv73fnk2kr3y": "Will Speaks Here",
+        "note-mv73fwxh5uuc": "Ashley Norton Song",
+        "note-mv73gfvxgsi8": "Joel Speaks Here",
+        "note-mvfjkvyufklp": "Geno Speaks Here",
+        "note-mvr72wistlh4": "Leftovers (20 min)",
+        "note-mvr7j06awqbc": "Indiana Guest and Song",
+        "note-mvr7jyf6g10s": "10 Minute Setup"
+      },
+      "mix": {
+        "setup": "two",
+        "ch": {
+          "1": "m-cam|mic|0",
+          "2": "m-mv72jckgz2bq|mic|0",
+          "3": "m-joel|mic|0",
+          "4": "m-cliff|mic|0",
+          "5": "m-david|mic|0",
+          "6": "m-cam|di|0",
+          "7": "m-joel|di|0",
+          "8": "m-mv72khb316xq|di|0",
+          "9": "m-geno|di|0",
+          "10": "",
+          "A1": "m-mv72jckgz2bq|mic|0",
+          "A2": "m-cam|mic|0",
+          "A3": "m-joel|mic|0",
+          "A4": "m-cliff|mic|0",
+          "A5": "m-david|mic|0",
+          "A6": "m-mv72khb316xq|mic|0",
+          "A7": "m-mvfjhda71wtj|mic|0",
+          "A8": "",
+          "B1": "m-cam|di|0",
+          "B2": "m-joel|di|0",
+          "B3": "m-geno|di|0",
+          "B4": "m-mv72khb316xq|di|0",
+          "B5": "",
+          "B6": ""
+        },
+        "known": [
+          "m-david|mic|0",
+          "m-mv72jckgz2bq|mic|0",
+          "m-cliff|mic|0",
+          "m-mvfjhda71wtj|mic|0",
+          "m-cam|mic|0",
+          "m-mv72khb316xq|mic|0",
+          "m-joel|mic|0",
+          "m-geno|di|0",
+          "m-cam|di|0",
+          "m-mv72khb316xq|di|0",
+          "m-joel|di|0"
+        ],
+        "monitors": 1,
+        "knobs": {},
+        "fx": 5
+      },
+      "length": 0,
+      "rehearsal": true,
+      "updatedAt": "2026-11-17T00:24:03.906Z"
     }
   }
 }
