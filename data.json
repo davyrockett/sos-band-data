@@ -1556,6 +1556,18 @@
       "length": 0,
       "rehearsal": true,
       "updatedAt": "2026-11-17T00:24:47.606Z"
+    },
+    "s-make-a-smile-for-me": {
+      "type": "song",
+      "title": "Make A Smile For Me",
+      "artist": "Bill Withers",
+      "lead": "m-mv72jckgz2bq",
+      "key": "E",
+      "bpm": null,
+      "notes": "",
+      "chart": "charts/make-a-smile-for-me.pdf",
+      "chartVersion": 1795479569017,
+      "updatedAt": "2026-11-24T00:19:29.017Z"
     }
   }
 }
