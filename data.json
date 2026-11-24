@@ -418,10 +418,20 @@
       "key": "em",
       "notes": "",
       "chart": "charts/i-will-survive.pdf",
-      "updatedAt": "2026-10-27T19:45:18.795Z",
+      "updatedAt": "2026-11-24T00:32:25.123Z",
       "source": "I Will Survive.pdf",
       "bpm": 117,
-      "chartVersion": 1793130318794
+      "chartVersion": 1793130318794,
+      "versions": [
+        {
+          "id": "v-mwtylkx6rl3k",
+          "name": "Jennifer's Key",
+          "key": "am",
+          "singer": "m-jennifer",
+          "chart": "charts/i-will-survive-v-mwtylkx6rl3k.pdf",
+          "chartVersion": 1795480345122
+        }
+      ]
     },
     "s-lets-stay-together": {
       "type": "song",
