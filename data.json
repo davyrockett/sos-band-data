@@ -1580,6 +1580,18 @@
       "chart": "charts/searching-for-the-truth.pdf",
       "chartVersion": 1795479642857,
       "updatedAt": "2026-11-24T00:20:42.858Z"
+    },
+    "s-what-im-about-to-do": {
+      "type": "song",
+      "title": "What I'm About to Do",
+      "artist": "W.S.",
+      "lead": "m-corey",
+      "key": "D",
+      "bpm": null,
+      "notes": "",
+      "chart": "charts/what-im-about-to-do.pdf",
+      "chartVersion": 1795479725293,
+      "updatedAt": "2026-11-24T00:22:05.293Z"
     }
   }
 }
