@@ -1568,6 +1568,18 @@
       "chart": "charts/make-a-smile-for-me.pdf",
       "chartVersion": 1795479569017,
       "updatedAt": "2026-11-24T00:19:29.017Z"
+    },
+    "s-searching-for-the-truth": {
+      "type": "song",
+      "title": "Searching for the Truth",
+      "artist": "W.S.",
+      "lead": "m-corey",
+      "key": "G",
+      "bpm": null,
+      "notes": "",
+      "chart": "charts/searching-for-the-truth.pdf",
+      "chartVersion": 1795479642857,
+      "updatedAt": "2026-11-24T00:20:42.858Z"
     }
   }
 }
