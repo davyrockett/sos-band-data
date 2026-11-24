@@ -1602,6 +1602,18 @@
       "chart": "charts/what-im-about-to-do.pdf",
       "chartVersion": 1795479725293,
       "updatedAt": "2026-11-24T00:22:05.293Z"
+    },
+    "s-what-i-wont-do-for-love": {
+      "type": "song",
+      "title": "What I Won't Do For Love",
+      "artist": "Bobby Caldwell",
+      "lead": "m-mv72jckgz2bq",
+      "key": "C",
+      "bpm": null,
+      "notes": "",
+      "chart": "charts/what-i-wont-do-for-love.pdf",
+      "chartVersion": 1795488696251,
+      "updatedAt": "2026-11-24T02:51:36.252Z"
     }
   }
 }
